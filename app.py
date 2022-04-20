@@ -1,6 +1,7 @@
 from flask import Flask, redirect, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
+import pandas as pd
 
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///test.db"
@@ -20,6 +21,10 @@ def index():
   if request.method == "POST":
     task_content = request.form["content"]
     new_task = Todo(content=task_content)
+    df = pd.read_csv("Donations.csv")
+    rows, cols = df.shape
+    print(rows)
+    print(cols)
 
     try:
       db.session.add(new_task)
