@@ -1,488 +1,447 @@
-,Contact Types,Donor Name,Donation Type Name,Total Amount,When Received,Payment Type Name
-0,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card
-1,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card
-2,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card
-3,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card
-4,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card
-5,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card
-6,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card
-7,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card
-8,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card
-9,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card
-10,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card
-11,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card
-12,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card
-13,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card
-14,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card
-15,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card
-16,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card
-17,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card
-18,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-16,Credit Card
-19,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-01-16,Credit Card
-20,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-21,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-22,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-01-17,Credit Card
-23,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-01-17,Credit Card
-24,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-01-17,Credit Card
-25,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-26,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-27,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-28,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-29,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-30,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-01-17,Credit Card
-31,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-01-17,Credit Card
-32,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-33,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-34,"Donors - CanadaHelps, Monthly","McKenzie, Harley",Individual - CanadaHelps,5.00,2022-01-18,Credit Card
-35,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-01-18,Credit Card
-36,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-01-19,Credit Card
-37,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-01-19,Credit Card
-38,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-01-19,Credit Card
-39,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-01-20,Credit Card
-40,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-01-20,Credit Card
-41,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-01-21,Credit Card
-42,"Donors - CanadaHelps, Monthly","Watson, Fiona",Individual - CanadaHelps,25.00,2022-01-21,Credit Card
-43,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-01-22,Credit Card
-44,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-23,Credit Card
-45,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-01-24,Credit Card
-46,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-01-26,Credit Card
-47,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-01-26,Credit Card
-48,"Donors - CanadaHelps, Monthly","Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-01-26,Credit Card
-49,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-01-27,Credit Card
-50,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-01-29,Credit Card
-51,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-01-30,Credit Card
-52,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card
-53,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card
-54,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card
-55,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card
-56,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card
-57,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card
-58,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card
-59,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card
-60,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card
-61,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card
-62,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card
-63,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card
-64,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card
-65,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card
-66,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card
-67,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card
-68,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-16,Credit Card
-69,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-01-16,Credit Card
-70,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-71,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-72,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-01-17,Credit Card
-73,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-01-17,Credit Card
-74,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-01-17,Credit Card
-75,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-76,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-77,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-01-17,Credit Card
-78,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-79,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-80,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-01-17,Credit Card
-81,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-01-17,Credit Card
-82,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-83,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-01-17,Credit Card
-84,"Donors - CanadaHelps, Monthly","McKenzie, Harley",Individual - CanadaHelps,5.00,2022-01-18,Credit Card
-85,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-01-18,Credit Card
-86,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-01-19,Credit Card
-87,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-01-19,Credit Card
-88,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-01-19,Credit Card
-89,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-01-20,Credit Card
-90,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-01-20,Credit Card
-91,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-01-21,Credit Card
-92,"Donors - CanadaHelps, Monthly","Watson, Fiona",Individual - CanadaHelps,25.00,2022-01-21,Credit Card
-93,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-01-22,Credit Card
-94,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-23,Credit Card
-95,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-01-24,Credit Card
-96,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-01-26,Credit Card
-97,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-01-26,Credit Card
-98,"Donors - CanadaHelps, Monthly","Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-01-26,Credit Card
-99,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-01-27,Credit Card
-100,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-01-29,Credit Card
-101,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-01-30,Credit Card
-102,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card
-103,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card
-104,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card
-105,"Donors - CanadaHelps, One-Time","Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
-106,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card
-107,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card
-108,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card
-109,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card
-110,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card
-111,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card
-112,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card
-113,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-114,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-115,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-116,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-117,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card
-118,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card
-119,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-120,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-121,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-122,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-123,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-124,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-125,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card
-126,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-127,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-128,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-129,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card
-130,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-131,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-132,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card
-133,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card
-134,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card
-135,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card
-136,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card
-137,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card
-138,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card
-139,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card
-140,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card
-141,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card
-142,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card
-143,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card
-144,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card
-145,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card
-146,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card
-147,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card
-148,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-149,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-150,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-151,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-152,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card
-153,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card
-154,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-155,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-156,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-157,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-158,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-159,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-160,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card
-161,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-162,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-163,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-164,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card
-165,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-166,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-167,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card
-168,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card
-169,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card
-170,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card
-171,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card
-172,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card
-173,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card
-174,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card
-175,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card
-176,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card
-177,"Donors - CanadaHelps, Monthly","Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card
-178,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card
-179,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-180,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-181,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-182,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card
-183,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-184,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card
-185,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card
-186,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card
-187,"Donors - CanadaHelps, One-Time","Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
-188,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card
-189,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card
-190,,"MacDonald, Fiona",Individual - CanadaHelps,100.00,2022-02-02,Credit Card
-191,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card
-192,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card
-193,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,50.00,2022-02-07,Credit Card
-194,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card
-195,,"Dockery, Carlisle",Individual - CanadaHelps,25.00,2022-02-13,Credit Card
-196,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card
-197,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card
-198,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-199,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-200,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-201,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-202,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-203,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card
-204,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card
-205,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-206,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-207,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-208,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-209,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-210,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-211,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-212,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card
-213,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-214,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-215,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-216,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,50.00,2022-02-18,Credit Card
-217,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card
-218,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-219,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-220,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card
-221,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card
-222,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card
-223,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card
-224,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card
-225,"Donors - CanadaHelps, One-Time","Drobnies, Adrienne",Individual - CanadaHelps,150.00,2022-02-21,Credit Card
-226,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card
-227,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card
-228,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-02-23,Credit Card
-229,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card
-230,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,3.00,2022-02-25,Credit Card
-231,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card
-232,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card
-233,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,20.00,2022-02-26,Credit Card
-234,"Donors - CanadaHelps, Monthly","Zhang, Muhan",Individual - CanadaHelps,10.00,2022-02-26,Credit Card
-235,"Donors - CanadaHelps, Monthly","Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card
-236,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,3.00,2022-02-26,Credit Card
-237,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card
-238,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-239,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-240,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,100.00,2022-02-28,Credit Card
-241,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-242,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-243,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card
-244,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-245,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card
-246,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card
-247,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card
-248,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card
-249,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,50.00,2022-03-07,Credit Card
-250,"Donors - CanadaHelps, One-Time","Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
-251,"Donors - CanadaHelps, One-Time","Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
-252,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card
-253,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card
-254,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card
-255,"Donors - CanadaHelps, One-Time","Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
-256,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card
-257,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card
-258,,"MacDonald, Fiona",Individual - CanadaHelps,100.00,2022-02-02,Credit Card
-259,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card
-260,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card
-261,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,50.00,2022-02-07,Credit Card
-262,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card
-263,,"Dockery, Carlisle",Individual - CanadaHelps,25.00,2022-02-13,Credit Card
-264,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card
-265,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card
-266,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-267,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card
-268,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-269,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-270,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-271,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card
-272,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card
-273,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-274,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-275,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-276,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card
-277,"Donors - CanadaHelps, Monthly","Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-278,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-279,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-280,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card
-281,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card
-282,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-283,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card
-284,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,50.00,2022-02-18,Credit Card
-285,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card
-286,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-287,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card
-288,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card
-289,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card
-290,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card
-291,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card
-292,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card
-293,"Donors - CanadaHelps, One-Time","Drobnies, Adrienne",Individual - CanadaHelps,150.00,2022-02-21,Credit Card
-294,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card
-295,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card
-296,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-02-23,Credit Card
-297,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card
-298,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,3.00,2022-02-25,Credit Card
-299,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card
-300,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card
-301,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,20.00,2022-02-26,Credit Card
-302,"Donors - CanadaHelps, Monthly","Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card
-303,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,3.00,2022-02-26,Credit Card
-304,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card
-305,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-306,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-307,"SWAN - Funders, Current",Ginger Ngo Inc,Individual - CanadaHelps,100.00,2022-02-28,Credit Card
-308,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card
-309,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-310,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card
-311,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-312,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Paypal
-313,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card
-314,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Paypal
-315,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-316,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-317,"Donors - CanadaHelps, One-Time","Donnelly, Elisabeth",Individual - CanadaHelps,20.00,2022-03-16,Paypal
-318,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-319,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-320,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card
-321,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Paypal
-322,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-323,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-324,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Paypal
-325,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-326,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-327,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card
-328,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-329,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-330,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Paypal
-331,"Donors - CanadaHelps, One-Time","Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
-332,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card
-333,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-334,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-335,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card
-336,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card
-337,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Paypal
-338,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card
-339,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card
-340,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card
-341,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card
-342,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card
-343,"Donors - CanadaHelps, One-Time","Schnerch, Gabriel",Individual - CanadaHelps,25.00,2022-03-23,Credit Card
-344,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card
-345,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card
-346,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card
-347,"Donors - CanadaHelps, Monthly","Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Paypal
-348,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card
-349,"Donors - CanadaHelps, One-Time","Kelleher, Leila",Individual - CanadaHelps,160.00,2022-03-28,Paypal
-350,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Fund - CanadaHelps,10.00,2022-03-01,Credit Card
-351,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Fund - CanadaHelps,15.00,2022-03-01,Credit Card
-352,"Donors - CanadaHelps, Monthly","Wong, Emma",Fund - CanadaHelps,10.00,2022-03-01,Credit Card
-353,"Donors - CanadaHelps, Monthly","Wu, Mary",Fund - CanadaHelps,40.00,2022-03-02,Credit Card
-354,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Fund - CanadaHelps,10.00,2022-03-02,Credit Card
-355,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Fund - CanadaHelps,50.00,2022-03-05,Credit Card
-356,"Donors - CanadaHelps, Monthly","Campbell, Emily",Fund - CanadaHelps,150.00,2022-03-07,Credit Card
-357,"Donors - CanadaHelps, One-Time","Woods, Matthew",Fund - CanadaHelps,500.00,2022-03-08,Credit Card
-358,"Donors - CanadaHelps, One-Time","Westendorf, Arinn",Fund - CanadaHelps,100.00,2022-03-08,Credit Card
-359,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Fund - CanadaHelps,20.00,2022-03-10,Credit Card
-360,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Fund - CanadaHelps,30.00,2022-03-12,Credit Card
-361,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Fund - CanadaHelps,7.00,2022-03-15,Credit Card
-362,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Fund - CanadaHelps,25.00,2022-03-16,Credit Card
-363,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Fund - CanadaHelps,25.00,2022-03-16,Credit Card
-364,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Fund - CanadaHelps,10.00,2022-03-17,Credit Card
-365,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Fund - CanadaHelps,25.00,2022-03-17,Credit Card
-366,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Fund - CanadaHelps,50.00,2022-03-17,Credit Card
-367,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Fund - CanadaHelps,15.00,2022-03-17,Credit Card
-368,"Donors - CanadaHelps, Monthly","Chow, Lauren",Fund - CanadaHelps,5.00,2022-03-17,Credit Card
-369,"Donors - CanadaHelps, Monthly","Wang, Justin",Fund - CanadaHelps,25.00,2022-03-17,Credit Card
-370,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Fund - CanadaHelps,25.00,2022-03-17,Credit Card
-371,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Fund - CanadaHelps,25.00,2022-03-17,Credit Card
-372,"Donors - CanadaHelps, Monthly","Macklin, Rory",Fund - CanadaHelps,10.00,2022-03-17,Credit Card
-373,"Donors - CanadaHelps, Monthly","Glass, Sarah",Fund - CanadaHelps,20.00,2022-03-17,Credit Card
-374,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Fund - CanadaHelps,5.00,2022-03-17,Credit Card
-375,"Donors - CanadaHelps, Monthly","Whetter, Carly",Fund - CanadaHelps,10.00,2022-03-17,Credit Card
-376,"Donors - CanadaHelps, Monthly","reifsteck, syr",Fund - CanadaHelps,10.00,2022-03-17,Credit Card
-377,"Donors - CanadaHelps, One-Time","Markulin, Diana",Fund - CanadaHelps,100.00,2022-03-17,Credit Card
-378,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Fund - CanadaHelps,10.00,2022-03-18,Credit Card
-379,"Donors - CanadaHelps, Monthly","Creighton, Tom",Fund - CanadaHelps,20.00,2022-03-19,Credit Card
-380,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Fund - CanadaHelps,20.00,2022-03-19,Credit Card
-381,"Donors - CanadaHelps, Monthly","Smith, Talia",Fund - CanadaHelps,5.00,2022-03-19,Credit Card
-382,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Fund - CanadaHelps,3.00,2022-03-19,Credit Card
-383,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Fund - CanadaHelps,50.00,2022-03-20,Credit Card
-384,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Fund - CanadaHelps,10.00,2022-03-20,Credit Card
-385,"Donors - CanadaHelps, Monthly","Glass, Liana",Fund - CanadaHelps,10.00,2022-03-21,Credit Card
-386,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Fund - CanadaHelps,5.00,2022-03-22,Credit Card
-387,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Fund - CanadaHelps,25.00,2022-03-23,Credit Card
-388,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Fund - CanadaHelps,5.00,2022-03-23,Credit Card
-389,"Donors - CanadaHelps, Monthly","Russell, Jessie",Fund - CanadaHelps,25.00,2022-03-24,Credit Card
-390,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Fund - CanadaHelps,20.00,2022-03-26,Credit Card
-391,"Donors - CanadaHelps, Monthly","Baird, Emily",Fund - CanadaHelps,7.00,2022-03-26,Credit Card
-392,"Donors - CanadaHelps, Monthly","Cunningham, Michael",Fund - CanadaHelps,50.00,2022-03-26,Credit Card
-393,"Donors - CanadaHelps, Monthly","Smith, Allison",Fund - CanadaHelps,5.00,2022-03-27,Credit Card
-394,"Donors - CanadaHelps, Monthly","Gibson, Kate",Fund - CanadaHelps,20.00,2022-03-29,Credit Card
-395,"Donors - CanadaHelps, Monthly","Cheng, Iris",Fund - CanadaHelps,20.00,2022-03-30,Credit Card
-396,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-397,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card
-398,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-399,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card
-400,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card
-401,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card
-402,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card
-403,"Donors - CanadaHelps, One-Time","Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
-404,"Donors - CanadaHelps, One-Time","Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
-405,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Credit Card
-406,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card
-407,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Credit Card
-408,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-409,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-410,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-411,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-412,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card
-413,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Credit Card
-414,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-415,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-416,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-417,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-418,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-419,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card
-420,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-421,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-422,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-423,"Donors - CanadaHelps, One-Time","Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
-424,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card
-425,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-426,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-427,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card
-428,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card
-429,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Credit Card
-430,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card
-431,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card
-432,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card
-433,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card
-434,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card
-435,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card
-436,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card
-437,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card
-438,"Donors - CanadaHelps, Monthly","Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Credit Card
-439,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card
-440,"Donors - CanadaHelps, Monthly","Gibson, Kate",Individual - CanadaHelps,20.00,2022-03-29,Credit Card
-441,"Donors - CanadaHelps, Monthly","Cheng, Iris",Individual - CanadaHelps,20.00,2022-03-30,Credit Card
-442,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-443,"Donors - CanadaHelps, Monthly","Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card
-444,"Donors - CanadaHelps, Monthly","Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card
-445,"Donors - CanadaHelps, Monthly","Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card
-446,"Donors - CanadaHelps, Monthly","Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card
-447,"Donors - CanadaHelps, Monthly","McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card
-448,"Donors - CanadaHelps, Monthly","Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card
-449,"Donors - CanadaHelps, One-Time","Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
-450,"Donors - CanadaHelps, One-Time","Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
-451,"Donors - CanadaHelps, Monthly","van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Credit Card
-452,"Donors - CanadaHelps, Monthly","Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card
-453,"Donors - CanadaHelps, Monthly","Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Credit Card
-454,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-455,"Donors - CanadaHelps, Monthly","McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card
-456,"Donors - CanadaHelps, Monthly","Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-457,"Donors - CanadaHelps, Monthly","Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-458,"Donors - CanadaHelps, Monthly","Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card
-459,"Donors - CanadaHelps, Monthly","Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Credit Card
-460,"Donors - CanadaHelps, Monthly","Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-461,"Donors - CanadaHelps, Monthly","Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-462,"Donors - CanadaHelps, Monthly","Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-463,"Donors - CanadaHelps, Monthly","Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card
-464,"Donors - CanadaHelps, Monthly","Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-465,"Donors - CanadaHelps, Monthly","Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card
-466,"Donors - CanadaHelps, Monthly","Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card
-467,"Donors - CanadaHelps, Monthly","Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-468,"Donors - CanadaHelps, Monthly","reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Credit Card
-469,"Donors - CanadaHelps, One-Time","Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
-470,"Donors - CanadaHelps, Monthly","Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card
-471,"Donors - CanadaHelps, Monthly","Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-472,"Donors - CanadaHelps, Monthly","Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card
-473,"Donors - CanadaHelps, Monthly","Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card
-474,"Donors - CanadaHelps, Monthly","MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card
-475,"Donors - CanadaHelps, Monthly","Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Credit Card
-476,"Donors - CanadaHelps, Monthly","Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card
-477,"Donors - CanadaHelps, Monthly","Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card
-478,"Donors - CanadaHelps, Monthly","Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card
-479,"Donors - CanadaHelps, Monthly","Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card
-480,"Donors - CanadaHelps, Monthly","Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card
-481,"Donors - CanadaHelps, Monthly","Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card
-482,"Donors - CanadaHelps, Monthly","Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card
-483,"Donors - CanadaHelps, Monthly","Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card
-484,"Donors - CanadaHelps, Monthly","Zhang, Muhan",Individual - CanadaHelps,10.00,2022-03-26,Credit Card
-485,"Donors - CanadaHelps, Monthly","Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Credit Card
-486,"Donors - CanadaHelps, Monthly","Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card
+,Donor Name,Donation Type Name,Total Amount,When Received,Payment Type Name,||,Donor Name,Donation Type Name,Total Amount,When Received,Payment Type Name
+0,"Baird, Emily",Individual - CanadaHelps,7.00,2022-01-26,Credit Card,||,"Donnelly, Elisabeth",Individual - CanadaHelps,20.00,2022-03-16,Paypal
+1,"Baird, Emily",Individual - CanadaHelps,7.00,2022-01-26,Credit Card,||,"Drobnies, Adrienne",Individual - CanadaHelps,150.00,2022-02-21,Credit Card
+2,"Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card,||,"Drobnies, Adrienne",Individual - CanadaHelps,150.00,2022-02-21,Credit Card
+3,"Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card,||,"Kelleher, Leila",Individual - CanadaHelps,160.00,2022-03-28,Paypal
+4,"Baird, Emily",Individual - CanadaHelps,7.00,2022-02-26,Credit Card,||,"Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
+5,"Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card,||,"Markulin, Diana",Fund - CanadaHelps,100.00,2022-03-17,Credit Card
+6,"Baird, Emily",Fund - CanadaHelps,7.00,2022-03-26,Credit Card,||,"Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
+7,"Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card,||,"Markulin, Diana",Individual - CanadaHelps,100.00,2022-03-17,Credit Card
+8,"Baird, Emily",Individual - CanadaHelps,7.00,2022-03-26,Credit Card,||,"Schnerch, Gabriel",Individual - CanadaHelps,25.00,2022-03-23,Credit Card
+9,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-01-22,Credit Card,||,"Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
+10,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-01-22,Credit Card,||,"Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
+11,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card,||,"Thi, Catherine",Individual - CanadaHelps,25.00,2022-02-02,Credit Card
+12,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card,||,"Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
+13,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card,||,"Westendorf, Arinn",Fund - CanadaHelps,100.00,2022-03-08,Credit Card
+14,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-02-22,Credit Card,||,"Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
+15,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card,||,"Westendorf, Arinn",Individual - CanadaHelps,100.00,2022-03-08,Credit Card
+16,"Barkley, Danielle",Fund - CanadaHelps,5.00,2022-03-22,Credit Card,||,"Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
+17,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card,||,"Woods, Matthew",Fund - CanadaHelps,500.00,2022-03-08,Credit Card
+18,"Barkley, Danielle",Individual - CanadaHelps,5.00,2022-03-22,Credit Card,||,"Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
+19,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card,||,"Woods, Matthew",Individual - CanadaHelps,500.00,2022-03-08,Credit Card
+20,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card,||,,,,,
+21,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-01-07,Credit Card,||,,,,,
+22,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card,||,,,,,
+23,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card,||,,,,,
+24,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card,||,,,,,
+25,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card,||,,,,,
+26,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-02-07,Credit Card,||,,,,,
+27,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card,||,,,,,
+28,"Campbell, Emily",Fund - CanadaHelps,150.00,2022-03-07,Credit Card,||,,,,,
+29,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card,||,,,,,
+30,"Campbell, Emily",Individual - CanadaHelps,150.00,2022-03-07,Credit Card,||,,,,,
+31,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-01-18,Credit Card,||,,,,,
+32,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-01-18,Credit Card,||,,,,,
+33,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card,||,,,,,
+34,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card,||,,,,,
+35,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card,||,,,,,
+36,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-02-18,Credit Card,||,,,,,
+37,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card,||,,,,,
+38,"Chaput, Nathalie",Fund - CanadaHelps,10.00,2022-03-18,Credit Card,||,,,,,
+39,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card,||,,,,,
+40,"Chaput, Nathalie",Individual - CanadaHelps,10.00,2022-03-18,Credit Card,||,,,,,
+41,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-01-30,Credit Card,||,,,,,
+42,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-01-30,Credit Card,||,,,,,
+43,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+44,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+45,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+46,"Cheng, Iris",Fund - CanadaHelps,20.00,2022-03-30,Credit Card,||,,,,,
+47,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-03-30,Credit Card,||,,,,,
+48,"Cheng, Iris",Individual - CanadaHelps,20.00,2022-03-30,Credit Card,||,,,,,
+49,"Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card,||,,,,,
+50,"Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card,||,,,,,
+51,"Chong, Jae Phil Steve",Individual - CanadaHelps,25.00,2022-01-14,Credit Card,||,,,,,
+52,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card,||,,,,,
+53,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card,||,,,,,
+54,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card,||,,,,,
+55,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-02-13,Credit Card,||,,,,,
+56,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card,||,,,,,
+57,"Chong, Jae Phil Steve",Fund - CanadaHelps,30.00,2022-03-12,Credit Card,||,,,,,
+58,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card,||,,,,,
+59,"Chong, Jae Phil Steve",Individual - CanadaHelps,30.00,2022-03-12,Credit Card,||,,,,,
+60,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-01-17,Credit Card,||,,,,,
+61,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-01-17,Credit Card,||,,,,,
+62,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+63,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+64,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+65,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+66,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+67,"Chow, Lauren",Fund - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+68,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+69,"Chow, Lauren",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+70,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-01-19,Credit Card,||,,,,,
+71,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-01-19,Credit Card,||,,,,,
+72,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+73,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+74,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+75,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+76,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+77,"Creighton, Tom",Fund - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+78,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+79,"Creighton, Tom",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+80,"Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Paypal,||,,,,,
+81,"Cunningham, Michael",Fund - CanadaHelps,50.00,2022-03-26,Credit Card,||,,,,,
+82,"Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Credit Card,||,,,,,
+83,"Cunningham, Michael",Individual - CanadaHelps,50.00,2022-03-26,Credit Card,||,,,,,
+84,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+85,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+86,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+87,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+88,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+89,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+90,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+91,"Fentiman, Amanda",Fund - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+92,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+93,"Fentiman, Amanda",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+94,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-01-17,Credit Card,||,,,,,
+95,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-01-17,Credit Card,||,,,,,
+96,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card,||,,,,,
+97,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card,||,,,,,
+98,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card,||,,,,,
+99,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-02-17,Credit Card,||,,,,,
+100,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Paypal,||,,,,,
+101,"Franklin, Lisa",Fund - CanadaHelps,15.00,2022-03-17,Credit Card,||,,,,,
+102,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Credit Card,||,,,,,
+103,"Franklin, Lisa",Individual - CanadaHelps,15.00,2022-03-17,Credit Card,||,,,,,
+104,"Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-02-23,Credit Card,||,,,,,
+105,"Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-02-23,Credit Card,||,,,,,
+106,"Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card,||,,,,,
+107,"Gabriel, Desiree",Fund - CanadaHelps,5.00,2022-03-23,Credit Card,||,,,,,
+108,"Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card,||,,,,,
+109,"Gabriel, Desiree",Individual - CanadaHelps,5.00,2022-03-23,Credit Card,||,,,,,
+110,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-01-29,Credit Card,||,,,,,
+111,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-01-29,Credit Card,||,,,,,
+112,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+113,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+114,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-02-28,Credit Card,||,,,,,
+115,"Gibson, Kate",Fund - CanadaHelps,20.00,2022-03-29,Credit Card,||,,,,,
+116,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-03-29,Credit Card,||,,,,,
+117,"Gibson, Kate",Individual - CanadaHelps,20.00,2022-03-29,Credit Card,||,,,,,
+118,"Glass, Liana",Individual - CanadaHelps,10.00,2022-01-21,Credit Card,||,,,,,
+119,"Glass, Liana",Individual - CanadaHelps,10.00,2022-01-21,Credit Card,||,,,,,
+120,"Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card,||,,,,,
+121,"Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card,||,,,,,
+122,"Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card,||,,,,,
+123,"Glass, Liana",Individual - CanadaHelps,10.00,2022-02-21,Credit Card,||,,,,,
+124,"Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card,||,,,,,
+125,"Glass, Liana",Fund - CanadaHelps,10.00,2022-03-21,Credit Card,||,,,,,
+126,"Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card,||,,,,,
+127,"Glass, Liana",Individual - CanadaHelps,10.00,2022-03-21,Credit Card,||,,,,,
+128,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-01-17,Credit Card,||,,,,,
+129,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-01-17,Credit Card,||,,,,,
+130,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card,||,,,,,
+131,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card,||,,,,,
+132,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card,||,,,,,
+133,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-02-17,Credit Card,||,,,,,
+134,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card,||,,,,,
+135,"Glass, Sarah",Fund - CanadaHelps,20.00,2022-03-17,Credit Card,||,,,,,
+136,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card,||,,,,,
+137,"Glass, Sarah",Individual - CanadaHelps,20.00,2022-03-17,Credit Card,||,,,,,
+138,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+139,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+140,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+141,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+142,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+143,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+144,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+145,"Ishiguro, Dr. Laura",Fund - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+146,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+147,"Ishiguro, Dr. Laura",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+148,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-16,Credit Card,||,,,,,
+149,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-16,Credit Card,||,,,,,
+150,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-23,Credit Card,||,,,,,
+151,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-01-23,Credit Card,||,,,,,
+152,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+153,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+154,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+155,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+156,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card,||,,,,,
+157,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card,||,,,,,
+158,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-02-23,Credit Card,||,,,,,
+159,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+160,"Johnson, Genevieve Fuji",Fund - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+161,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+162,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+163,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card,||,,,,,
+164,"Johnson, Genevieve Fuji",Fund - CanadaHelps,25.00,2022-03-23,Credit Card,||,,,,,
+165,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card,||,,,,,
+166,"Johnson, Genevieve Fuji",Individual - CanadaHelps,25.00,2022-03-23,Credit Card,||,,,,,
+167,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-01-19,Credit Card,||,,,,,
+168,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-01-19,Credit Card,||,,,,,
+169,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+170,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+171,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+172,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-02-19,Credit Card,||,,,,,
+173,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+174,"Kajoba, Flavia-Grace",Fund - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+175,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+176,"Kajoba, Flavia-Grace",Individual - CanadaHelps,20.00,2022-03-19,Credit Card,||,,,,,
+177,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-01-26,Credit Card,||,,,,,
+178,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-01-26,Credit Card,||,,,,,
+179,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card,||,,,,,
+180,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card,||,,,,,
+181,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-02-26,Credit Card,||,,,,,
+182,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card,||,,,,,
+183,"Lucey-Weinhold, Meredith",Fund - CanadaHelps,20.00,2022-03-26,Credit Card,||,,,,,
+184,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card,||,,,,,
+185,"Lucey-Weinhold, Meredith",Individual - CanadaHelps,20.00,2022-03-26,Credit Card,||,,,,,
+186,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-01-19,Credit Card,||,,,,,
+187,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-01-19,Credit Card,||,,,,,
+188,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card,||,,,,,
+189,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card,||,,,,,
+190,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card,||,,,,,
+191,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-02-19,Credit Card,||,,,,,
+192,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card,||,,,,,
+193,"MacIntosh, Katharine",Fund - CanadaHelps,3.00,2022-03-19,Credit Card,||,,,,,
+194,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card,||,,,,,
+195,"MacIntosh, Katharine",Individual - CanadaHelps,3.00,2022-03-19,Credit Card,||,,,,,
+196,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+197,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+198,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+199,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+200,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+201,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+202,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+203,"Macklin, Rory",Fund - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+204,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+205,"Macklin, Rory",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+206,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-01-20,Credit Card,||,,,,,
+207,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-01-20,Credit Card,||,,,,,
+208,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card,||,,,,,
+209,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card,||,,,,,
+210,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card,||,,,,,
+211,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-02-20,Credit Card,||,,,,,
+212,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card,||,,,,,
+213,"Maddison, Teresa",Fund - CanadaHelps,10.00,2022-03-20,Credit Card,||,,,,,
+214,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card,||,,,,,
+215,"Maddison, Teresa",Individual - CanadaHelps,10.00,2022-03-20,Credit Card,||,,,,,
+216,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card,||,,,,,
+217,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card,||,,,,,
+218,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-01-05,Credit Card,||,,,,,
+219,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card,||,,,,,
+220,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card,||,,,,,
+221,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card,||,,,,,
+222,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card,||,,,,,
+223,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-02-05,Credit Card,||,,,,,
+224,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card,||,,,,,
+225,"McBride, Bronwyn",Fund - CanadaHelps,50.00,2022-03-05,Credit Card,||,,,,,
+226,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card,||,,,,,
+227,"McBride, Bronwyn",Individual - CanadaHelps,50.00,2022-03-05,Credit Card,||,,,,,
+228,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-01-16,Credit Card,||,,,,,
+229,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-01-16,Credit Card,||,,,,,
+230,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+231,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+232,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+233,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-02-16,Credit Card,||,,,,,
+234,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+235,"McFarland, Sarina",Fund - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+236,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+237,"McFarland, Sarina",Individual - CanadaHelps,25.00,2022-03-16,Credit Card,||,,,,,
+238,"McKenzie, Harley",Individual - CanadaHelps,5.00,2022-01-18,Credit Card,||,,,,,
+239,"McKenzie, Harley",Individual - CanadaHelps,5.00,2022-01-18,Credit Card,||,,,,,
+240,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+241,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+242,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+243,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+244,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+245,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+246,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Paypal,||,,,,,
+247,"Memedovich, Ally",Fund - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+248,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+249,"Memedovich, Ally",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+250,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card,||,,,,,
+251,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card,||,,,,,
+252,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-01,Credit Card,||,,,,,
+253,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card,||,,,,,
+254,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card,||,,,,,
+255,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-01-02,Credit Card,||,,,,,
+256,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card,||,,,,,
+257,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card,||,,,,,
+258,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card,||,,,,,
+259,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card,||,,,,,
+260,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-01,Credit Card,||,,,,,
+261,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card,||,,,,,
+262,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card,||,,,,,
+263,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card,||,,,,,
+264,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card,||,,,,,
+265,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-02-02,Credit Card,||,,,,,
+266,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+267,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+268,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+269,"Motoyoshi, Umeko",Fund - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+270,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+271,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+272,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card,||,,,,,
+273,"Motoyoshi, Umeko",Fund - CanadaHelps,10.00,2022-03-02,Credit Card,||,,,,,
+274,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card,||,,,,,
+275,"Motoyoshi, Umeko",Individual - CanadaHelps,10.00,2022-03-02,Credit Card,||,,,,,
+276,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+277,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+278,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+279,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+280,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+281,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+282,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+283,"Patterson, Christopher",Fund - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+284,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+285,"Patterson, Christopher",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+286,"Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-01-26,Credit Card,||,,,,,
+287,"Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-01-26,Credit Card,||,,,,,
+288,"Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card,||,,,,,
+289,"Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card,||,,,,,
+290,"Paulishyn, Riley",Individual - CanadaHelps,10.00,2022-02-26,Credit Card,||,,,,,
+291,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card,||,,,,,
+292,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card,||,,,,,
+293,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-01-15,Credit Card,||,,,,,
+294,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card,||,,,,,
+295,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card,||,,,,,
+296,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card,||,,,,,
+297,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-02-15,Credit Card,||,,,,,
+298,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Paypal,||,,,,,
+299,"Potter, Adelaide",Fund - CanadaHelps,7.00,2022-03-15,Credit Card,||,,,,,
+300,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Credit Card,||,,,,,
+301,"Potter, Adelaide",Individual - CanadaHelps,7.00,2022-03-15,Credit Card,||,,,,,
+302,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-01-24,Credit Card,||,,,,,
+303,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-01-24,Credit Card,||,,,,,
+304,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card,||,,,,,
+305,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card,||,,,,,
+306,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-02-24,Credit Card,||,,,,,
+307,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card,||,,,,,
+308,"Russell, Jessie",Fund - CanadaHelps,25.00,2022-03-24,Credit Card,||,,,,,
+309,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card,||,,,,,
+310,"Russell, Jessie",Individual - CanadaHelps,25.00,2022-03-24,Credit Card,||,,,,,
+311,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card,||,,,,,
+312,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card,||,,,,,
+313,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-01-01,Credit Card,||,,,,,
+314,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card,||,,,,,
+315,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card,||,,,,,
+316,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card,||,,,,,
+317,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card,||,,,,,
+318,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-02-01,Credit Card,||,,,,,
+319,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+320,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+321,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+322,"Sayson, Kimberly",Fund - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+323,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+324,"Sayson, Kimberly",Individual - CanadaHelps,15.00,2022-03-01,Credit Card,||,,,,,
+325,"Smith, Allison",Individual - CanadaHelps,5.00,2022-01-27,Credit Card,||,,,,,
+326,"Smith, Allison",Individual - CanadaHelps,5.00,2022-01-27,Credit Card,||,,,,,
+327,"Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card,||,,,,,
+328,"Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card,||,,,,,
+329,"Smith, Allison",Individual - CanadaHelps,5.00,2022-02-27,Credit Card,||,,,,,
+330,"Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card,||,,,,,
+331,"Smith, Allison",Fund - CanadaHelps,5.00,2022-03-27,Credit Card,||,,,,,
+332,"Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card,||,,,,,
+333,"Smith, Allison",Individual - CanadaHelps,5.00,2022-03-27,Credit Card,||,,,,,
+334,"Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card,||,,,,,
+335,"Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card,||,,,,,
+336,"Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card,||,,,,,
+337,"Smith, Talia",Individual - CanadaHelps,5.00,2022-02-19,Credit Card,||,,,,,
+338,"Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card,||,,,,,
+339,"Smith, Talia",Fund - CanadaHelps,5.00,2022-03-19,Credit Card,||,,,,,
+340,"Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card,||,,,,,
+341,"Smith, Talia",Individual - CanadaHelps,5.00,2022-03-19,Credit Card,||,,,,,
+342,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-01-17,Credit Card,||,,,,,
+343,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-01-17,Credit Card,||,,,,,
+344,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card,||,,,,,
+345,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card,||,,,,,
+346,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card,||,,,,,
+347,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-02-17,Credit Card,||,,,,,
+348,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card,||,,,,,
+349,"Spiegel, Ruby",Fund - CanadaHelps,50.00,2022-03-17,Credit Card,||,,,,,
+350,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card,||,,,,,
+351,"Spiegel, Ruby",Individual - CanadaHelps,50.00,2022-03-17,Credit Card,||,,,,,
+352,"Wang, Justin",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+353,"Wang, Justin",Individual - CanadaHelps,25.00,2022-01-17,Credit Card,||,,,,,
+354,"Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+355,"Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+356,"Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+357,"Wang, Justin",Individual - CanadaHelps,25.00,2022-02-17,Credit Card,||,,,,,
+358,"Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+359,"Wang, Justin",Fund - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+360,"Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+361,"Wang, Justin",Individual - CanadaHelps,25.00,2022-03-17,Credit Card,||,,,,,
+362,"Watson, Fiona",Individual - CanadaHelps,25.00,2022-01-21,Credit Card,||,,,,,
+363,"Watson, Fiona",Individual - CanadaHelps,25.00,2022-01-21,Credit Card,||,,,,,
+364,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+365,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+366,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+367,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+368,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+369,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+370,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+371,"Whetter, Carly",Fund - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+372,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+373,"Whetter, Carly",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+374,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-01-20,Credit Card,||,,,,,
+375,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-01-20,Credit Card,||,,,,,
+376,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card,||,,,,,
+377,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card,||,,,,,
+378,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card,||,,,,,
+379,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-02-20,Credit Card,||,,,,,
+380,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Paypal,||,,,,,
+381,"Wiedmeyer, Mei-ling",Fund - CanadaHelps,50.00,2022-03-20,Credit Card,||,,,,,
+382,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Credit Card,||,,,,,
+383,"Wiedmeyer, Mei-ling",Individual - CanadaHelps,50.00,2022-03-20,Credit Card,||,,,,,
+384,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-01-17,Credit Card,||,,,,,
+385,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-01-17,Credit Card,||,,,,,
+386,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+387,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+388,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+389,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-02-17,Credit Card,||,,,,,
+390,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+391,"Wilder, Bunny",Fund - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+392,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+393,"Wilder, Bunny",Individual - CanadaHelps,5.00,2022-03-17,Credit Card,||,,,,,
+394,"Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card,||,,,,,
+395,"Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card,||,,,,,
+396,"Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card,||,,,,,
+397,"Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card,||,,,,,
+398,"Wong, Emma",Individual - CanadaHelps,20.00,2022-02-01,Credit Card,||,,,,,
+399,"Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+400,"Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+401,"Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+402,"Wong, Emma",Fund - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+403,"Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+404,"Wong, Emma",Individual - CanadaHelps,10.00,2022-03-01,Credit Card,||,,,,,
+405,"Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card,||,,,,,
+406,"Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card,||,,,,,
+407,"Wu, Mary",Individual - CanadaHelps,40.00,2022-01-02,Credit Card,||,,,,,
+408,"Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card,||,,,,,
+409,"Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card,||,,,,,
+410,"Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card,||,,,,,
+411,"Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card,||,,,,,
+412,"Wu, Mary",Individual - CanadaHelps,40.00,2022-02-02,Credit Card,||,,,,,
+413,"Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card,||,,,,,
+414,"Wu, Mary",Fund - CanadaHelps,40.00,2022-03-02,Credit Card,||,,,,,
+415,"Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card,||,,,,,
+416,"Wu, Mary",Individual - CanadaHelps,40.00,2022-03-02,Credit Card,||,,,,,
+417,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+418,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+419,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+420,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+421,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+422,"Zafonte, Tom",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+423,"Zhang, Muhan",Individual - CanadaHelps,10.00,2022-02-26,Credit Card,||,,,,,
+424,"Zhang, Muhan",Individual - CanadaHelps,10.00,2022-03-26,Credit Card,||,,,,,
+425,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+426,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-01-17,Credit Card,||,,,,,
+427,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+428,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+429,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+430,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-02-17,Credit Card,||,,,,,
+431,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Paypal,||,,,,,
+432,"reifsteck, syr",Fund - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+433,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+434,"reifsteck, syr",Individual - CanadaHelps,10.00,2022-03-17,Credit Card,||,,,,,
+435,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card,||,,,,,
+436,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card,||,,,,,
+437,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-01-10,Credit Card,||,,,,,
+438,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card,||,,,,,
+439,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card,||,,,,,
+440,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card,||,,,,,
+441,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-02-10,Credit Card,||,,,,,
+442,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Paypal,||,,,,,
+443,"van der Giessen, Matthew",Fund - CanadaHelps,20.00,2022-03-10,Credit Card,||,,,,,
+444,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Credit Card,||,,,,,
+445,"van der Giessen, Matthew",Individual - CanadaHelps,20.00,2022-03-10,Credit Card,||,,,,,
